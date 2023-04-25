@@ -1,2 +1,3 @@
 import streamlit as st
-st.map()
+# st.map()
+st.image('cat.jpg')
